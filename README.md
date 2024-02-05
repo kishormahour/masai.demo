@@ -1,2 +1,2 @@
 # masai.demo
-my first repo.
+my first reposittory
